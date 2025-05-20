@@ -1,4 +1,4 @@
-# 📊 Revenue, Profitability & Inventory Analysis
+# 📊 Revenue, Profitability, & Inventory Analysis
 
 ### 🚀 Executive Summary
 This project analyzes the 2023 performance of an e-commerce store, focusing on revenue, profitability, and inventory optimization. Using SQL queries, I derived insights from revenue trends, profit margins, inventory turnover, and SKU-level performance to identify strengths and areas for improvement. Recommendations are provided to enhance profitability and streamline operations.
