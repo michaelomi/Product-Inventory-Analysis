@@ -210,4 +210,4 @@ ORDER BY
 ## 5. 🎯 Conclusion
 This analysis demonstrates strong revenue and profit growth in 2023, with opportunities to improve inventory efficiency and address seasonal dips. By focusing on high-margin categories and top-performing SKUs, the store can maximize profitability. This project showcases my expertise in SQL-based data analysis and strategic decision-making for e-commerce optimization.
 
-*Analysis conducted using SQL queries on revenue, cost, profit, and inventory datasets. View the full code and queries in the [repository](#).*
+*Analysis conducted using SQL queries on revenue, cost, profit, and inventory datasets. View the full code and queries in the [repository](https://github.com/michaelomi/Product-Inventory-Analysis/blob/main/Products%20%26%20Inventory%20Analysis.sql).*
